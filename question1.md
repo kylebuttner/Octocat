@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone copies an existing repository and places it into a new directory. It essentially performs the function of several other commands at once (mkdir, cd, git init, git remote add origin, git pull, cd ..).
